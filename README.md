@@ -1,1 +1,1 @@
-# Deep_Learning_Algorithm_for_ASL-_Recognition
+# Deep_Learning_Algorithm_for_ASL__Recognition
